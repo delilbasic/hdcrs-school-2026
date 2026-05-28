@@ -1,0 +1,6 @@
+pennylane
+pennylane-qiskit
+matplotlib
+numpy
+ipywidgets
+autoray<0.7
