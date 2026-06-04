@@ -1,6 +1,6 @@
-pennylane
-pennylane-qiskit
-matplotlib
-numpy
-ipywidgets
-autoray<0.7
+pennylane==0.36.0
+pennylane-qiskit==0.36.0
+matplotlib==3.9.4
+numpy==1.26.4
+ipywidgets==8.1.8
+autoray==0.6.6
