@@ -26,8 +26,8 @@ fi
 # Activate the virtual environment
 source .venv/bin/activate
 
-# Install requirements with uv (much faster!)
-echo "Installing dependencies with uv..."
+# Install requirements
+echo "Installing dependencies..."
 uv pip install -r requirements.txt
 
 # Install Jupyter and ipykernel if not already installed
