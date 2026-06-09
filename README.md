@@ -3,6 +3,7 @@
 
 ### Setup
 
-To set up your environment with all required dependencies:
+To set up your environment and Jupyter kernel with all required dependencies:
 
+`./setup.sh`
 

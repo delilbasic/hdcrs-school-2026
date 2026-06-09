@@ -10,3 +10,4 @@ pandas==3.0.3
 seaborn==0.13.2
 jax==0.7.1
 jaxlib==0.7.1
+torch==2.12.0
