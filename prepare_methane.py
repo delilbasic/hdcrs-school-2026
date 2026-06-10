@@ -6,7 +6,7 @@ import scipy.io
 import glob
  
 class prepare_methane_with_splits:
-    def __init__(self, random_state=0, path: str = 'data/methane/', fold_id_max=5):
+    def __init__(self, random_state=0, path: str = 'data/', fold_id_max=5):
         self.path = path 
         self.fold_id_max = fold_id_max
 
